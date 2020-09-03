@@ -1,0 +1,9 @@
+build/*
+.idea/*
+.git/*
+
+node_modules/*
+
+package.json
+
+package-lock.json
